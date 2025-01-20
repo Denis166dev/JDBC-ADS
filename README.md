@@ -15,7 +15,6 @@ JDBC é uma API Java que serve como ponte de comunicação entre aplicações Ja
 3. **Statements**: Cria objetos para representar comandos SQL a serem executados.
 4. **Execução de Consultas**: Executa consultas SQL usando os statements e obtém resultados.
 5. **ResultSet**: Armazena os resultados da consulta, permitindo navegação e acesso aos dados.
-6. **Fechamento**: Fecha a conexão e libera os recursos.
 
 ## Tipos de Drivers JDBC
 
